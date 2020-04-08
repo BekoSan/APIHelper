@@ -7,6 +7,9 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>BekoSan.APIHelper</PackageId>
     <PackageTags>Api , helper , post , get , delete , put , rest api , data , connect , endpoint , url</PackageTags>
+    <RepositoryUrl>https://github.com/BekoSan/APIHelper</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/BekoSan/APIHelper/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>Public Repository.</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
